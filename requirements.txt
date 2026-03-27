@@ -1,0 +1,7 @@
+mesa==1.2.1
+networkx
+SALib
+numpy
+pandas
+matplotlib
+tqdm
